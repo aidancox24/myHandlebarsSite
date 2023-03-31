@@ -261,7 +261,7 @@ function createFooter() {
 
     const $brandLogoLink = $("<a>", { href: "/" });
     const $brandLogo = $("<img>", {
-        src: "images/logo-white.PNG",
+        src: "images/logo-white.png",
         alt: "logo",
     });
 
