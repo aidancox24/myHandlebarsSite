@@ -13,7 +13,7 @@
 
     <photo>
         <highres>
-            <src>images/forest.JPG</src>
+            <src>images/forest.jpg</src>
         </highres>
         <lowres>
             <src>images/forest-1600x900.jpg</src>
@@ -23,7 +23,7 @@
 
     <photo>
         <highres>
-            <src>images/river.JPG</src>
+            <src>images/river.jpg</src>
         </highres>
         <lowres>
             <src>images/river-1600x900.jpg</src>
@@ -33,7 +33,7 @@
 
     <photo>
         <highres>
-            <src>images/trees.JPG</src>
+            <src>images/trees.jpg</src>
         </highres>
         <lowres>
             <src>images/trees-1600x900.jpg</src>
@@ -43,7 +43,7 @@
 
     <photo>
         <highres>
-            <src>images/house.JPG</src>
+            <src>images/house.jpg</src>
         </highres>
         <lowres>
             <src>images/house-1600x900.jpg</src>
@@ -53,7 +53,7 @@
 
     <photo>
         <highres>
-            <src>images/sky.JPG</src>
+            <src>images/sky.jpg</src>
         </highres>
         <lowres>
             <src>images/sky-1600x900.jpg</src>
